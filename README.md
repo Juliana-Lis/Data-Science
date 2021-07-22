@@ -4,7 +4,7 @@
 Portfólio pessoal de projetos de Data Science
 
 <p align="center">
-  <img src=""C:\Users\julia\OneDrive\Área de Trabalho\Portfólio\Banner.png"" >
+  <img src="Banner.png" >
 </p>
 
 # Juliana Lis
