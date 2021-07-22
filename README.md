@@ -17,6 +17,13 @@ Master and PhD in the field of animal sciences. Experience working with data ana
 
 **Background in:** Python, Machine Learning, Statistical analysis, SQL.
 
+**Formação:**
+* **Graduação em Biomedicina - UniCEUB.**
+* **Mestrado em Biologia Animal pela UnB.**
+* **Doutorado em Biologia Animal pela UnB.**
+
+
+
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/juliana-brito-669947217/)
 * [Medium](@julianalis.brito)
