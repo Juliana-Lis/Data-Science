@@ -13,7 +13,7 @@ Portfólio pessoal de projetos de Data Science
 
 Mestrado e Doutorado na área de ciências animais. Experiência trabalhando com análises de dados, e análises estatísticas. Atualmente fazendo um pós doutorado na Universidade de Brasília, e estudando ciência de dados, aprimorando as técnicas de análises estatísticas, Python, SQL e machine learning.
 
-Masters and PhD in the field of animal sciences. Experience working with data analysis, and statistical analysis. Currently  as a post doctoral reseracher at the University of Brasília, studying data science, improving statistical analysis techniques, Python, SQL and machine learning.
+Master and PhD in the field of animal sciences. Experience working with data analysis, and statistical analysis. Currently  as a post doctoral reseracher at the University of Brasília, studying data science, improving statistical analysis techniques, Python, SQL and machine learning.
 
 **Background in:** Python, Machine Learning, Statistical analysis, SQL.
 
