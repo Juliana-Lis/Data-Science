@@ -30,3 +30,4 @@ Master and PhD in the field of animal sciences. Experience working with data ana
 
 
 ## Projetos:
+*   [Análise de dados do AirbnB da cidade de Zurique - Suiça](https://github.com/Juliana-Lis/Projetos/blob/main/Analisando_os_Dados_do_Airbnb_Sui%C3%A7a_Zurique.ipynb)
